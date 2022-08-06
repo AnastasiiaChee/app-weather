@@ -26,6 +26,7 @@ li {
 li::first-letter {
   text-transform: capitalize;
 }
+
 .weather-app-wrapper {
   max-width: 600px;
   margin: 30px auto;
@@ -36,7 +37,6 @@ li::first-letter {
   padding: 20px;
   border: 1px solid #dadde1;
   border-radius: 5px;
-  background-color: rgb(229, 244, 248);
 }
 .overview {
   margin-bottom: 20px;
@@ -79,7 +79,6 @@ li::first-letter {
   font-size: 16px;
   opacity: 0.5;
   color: #725f73;
-  
 }
 .weather-forecast-temperature {
   font-size: 13px;
